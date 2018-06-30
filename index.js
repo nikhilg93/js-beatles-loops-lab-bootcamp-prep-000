@@ -19,6 +19,7 @@ const facts = [
   var newArray = [];
   var j =0;
   while(j<facts.length){
-    newArray.push()
+    newArray.push(facts[j]+"!!!")
   }
+  return newArray
 }
