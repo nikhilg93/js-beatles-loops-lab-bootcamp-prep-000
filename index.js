@@ -9,6 +9,7 @@ function theBeatlesPlay(musicians, instruments){
   return array;
 }
 
+
 function johnLennonFacts(){
 const facts = [
   "He was the last Beatle to learn to drive",
