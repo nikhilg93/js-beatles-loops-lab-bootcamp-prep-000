@@ -33,5 +33,6 @@ function johnLennonFacts(){
 
 
 function iLoveTheBeatles(number){
-  var 
+  var array = [];
+  
 }
