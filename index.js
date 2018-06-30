@@ -16,7 +16,7 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-  
+  var newArray = [];
   var j =0;
   while(j<facts.length)
 }
