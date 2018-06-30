@@ -22,5 +22,5 @@ function johnLennonFacts(facts){
   while(){
     eFacts.push(`${facts}!!!`)
   }
-  return eFacts
+  return eFacts;
 }
