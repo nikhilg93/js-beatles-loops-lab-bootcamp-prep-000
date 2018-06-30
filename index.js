@@ -18,6 +18,7 @@ const facts = [
   
 function johnLennonFacts(facts){
   var eFacts = [];
+  let j =0;
   while(j< facts.length){
     eFacts.push(`${facts}!!!`)
   }
