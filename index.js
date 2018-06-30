@@ -18,7 +18,7 @@ function johnLennonFacts(){
     "He hated the sound of his own voice",
     "foo", "bar"];
   var newArray = [];
-  var j =0;
+  
   while(j<facts.length){
     newArray.push(facts[j]+"!!!");
     j++;
