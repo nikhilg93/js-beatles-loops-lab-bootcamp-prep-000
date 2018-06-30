@@ -23,11 +23,6 @@ function johnLennonFacts(){
     newArray.push(facts[j]+"!!!");
     j++;
   }
-  while(newArray.length < eFacts.length){
-    newArray.push(facts[j]+"!!!");
-    j++;
-  }
-  
   return newArray;
 }
 
