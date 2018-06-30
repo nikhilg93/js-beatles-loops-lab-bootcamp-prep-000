@@ -16,11 +16,3 @@ const facts = [
   "He hated the sound of his own voice"
 ];
   
-function johnLennonFacts(facts){
-  var eFacts = [];
-  let j = 0;
-  while(j < facts.length){
-    eFacts.push(`$ {facts}!!!`)
-  }
-  return eFacts;
-}
