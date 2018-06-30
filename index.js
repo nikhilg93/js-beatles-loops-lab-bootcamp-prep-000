@@ -16,12 +16,18 @@ function johnLennonFacts(){
         "He was a choir boy and boy scout",
         "He hated the sound of his own voice"
         ];
+  var eFacts = ["foo", "bar"]
   var newArray = [];
   var j =0;
   while(newArray.length < facts.length){
     newArray.push(facts[j]+"!!!");
     j++;
   }
+  while(newArray.length < eFacts.length){
+    newArray.push(facts[j]+"!!!");
+    j++;
+  }
+  
   return newArray;
 }
 
