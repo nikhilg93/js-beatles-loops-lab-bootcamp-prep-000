@@ -16,10 +16,10 @@ function johnLennonFacts(){
     "He was never a vegetarian",
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice",
-    "foo", "bar"];
+];
   var newArray = [];
-  
-  while(j<facts.length){
+  var j =0;
+  while(newArray.length < facts.length){
     newArray.push(facts[j]+"!!!");
     j++;
   }
