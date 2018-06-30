@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
   var eFacts = [];
   
   while(){
-    eFacts.push(`${facts}!!!`)
+    eFacts.push(`$ {facts}!!!`)
   }
   return eFacts;
 }
